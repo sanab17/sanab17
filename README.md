@@ -56,13 +56,11 @@ A production-ready full-stack application that monitors API health and tracks pe
 
 🌐 [**Live Demo**](https://api-monitor-dashboard.netlify.app) | 💻 [**Source Code**](https://github.com/sanab17/api-monitor-dashboard)
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sanab17&theme=dark)](https://git.io/streak-stats)<img width="728" height="148" alt="image" src="https://github.com/user-attachments/assets/3e7efc87-48b0-430c-9135-4e604c7f73ac" />
-
 ## 📊 GitHub Activity
 
-![Sana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanab17&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanab17&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanab17&show_icons=true&theme=radical" alt="GitHub Stats" />
