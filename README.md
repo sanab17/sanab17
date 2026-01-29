@@ -83,9 +83,12 @@ A production-ready full-stack application that monitors API health and tracks pe
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/username=sanab17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanab17&color=blueviolet&style=flat-square)
+
 <p align="center">
   <i>💡 "First, solve the problem. Then, write the code." - John Johnson</i>
 </p>
