@@ -87,8 +87,8 @@ A production-ready full-stack application that monitors API health and tracks pe
   <i>💡 "First, solve the problem. Then, write the code." - John Johnson</i>
 </p>
 
-⚡ Quick Facts
-javascript
+## ⚡ Quick Facts
+````javascript
 const sana = {
     role: "Full-Stack Engineer",
     experience: "8+ years",
@@ -98,6 +98,7 @@ const sana = {
     workingOn: "Building tools that make developers' lives easier",
     funFact: "My code works. I have no idea why. Don't touch it."
 };
+````
 
 <p align="center">
   Thanks for stopping by! Feel free to explore my projects and reach out for collaborations! 🚀
