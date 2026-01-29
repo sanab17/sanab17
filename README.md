@@ -5,15 +5,10 @@
 🚀 **What I'm Up To**
 
 🔭 Currently building **full-stack monitoring and automation tools**
-
 🌱 Deepening my expertise in **React, TypeScript, and modern frontend patterns**
-
 💡 Exploring **cloud-native architectures and microservices**
-
 👯 Open to collaborating on **open-source backend projects**
-
 💬 Ask me about **Node.js, REST APIs, TypeScript, System Design, or debugging production issues**
-
 📫 Reach me at **sana.b17@yahoo.com**
 
 
