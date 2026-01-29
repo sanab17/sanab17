@@ -2,11 +2,15 @@
 
 **Full-Stack Engineer specializing in making servers behave | 8+ years of convincing computers to do what they're told by building backend systems that don't break at 3 AM.**
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
+  <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3llcG41dXM2NnY2cGs2bzNzbGx5cGF2NjMzNjAwMjNhd3RvODQycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif">
-</div>
-
-## 🚀 What I'm Up To
+  </div>
+</td>
+<td width="50%">
+  ## 🚀 What I'm Up To
 
 🔭 Currently building **full-stack monitoring and automation tools**
 
@@ -19,7 +23,9 @@
 💬 Ask me about **Node.js, REST APIs, TypeScript, System Design, or debugging production issues**
 
 📫 Reach me at **sana.b17@yahoo.com**
-
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
