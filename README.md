@@ -3,7 +3,7 @@
 **Backend-focused Software Engineer with 8+ years of experience building scalable APIs and full-stack applications.**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3llcG41dXM2NnY2cGs2bzNzbGx5cGF2NjMzNjAwMjNhd3RvODQycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif)" width="500" alt="coding">
 </div>
 
 🚀 **What I'm Up To**
