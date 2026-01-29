@@ -60,7 +60,7 @@ A production-ready full-stack application that monitors API health and tracks pe
 
 Repository documenting solutions to coding problems, focusing on data structures and algorithms.
 
-Focus Areas: Arrays, Linked Lists, Trees, Dynamic Programming, System Design
+**Focus Areas:** Arrays, Linked Lists, Trees, Dynamic Programming, System Design
 
 🔐 **Secret Message Decode**
 
@@ -74,13 +74,6 @@ Exploring encoding and decoding mechanisms for secure message transmission.
   <img src="https://github-readme-stats.vercel.app/api?username=sanab17&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanab17&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanab17&theme=radical" alt="GitHub Streak" />
-</p> -->
-
 ## 🤝 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/sanabulbule" target="_blank">
@@ -93,11 +86,6 @@ Exploring encoding and decoding mechanisms for secure message transmission.
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
   </a>
 </p>
-
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/username=sanab17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p> -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanab17&color=blueviolet&style=flat-square)
 
@@ -121,18 +109,3 @@ const sana = {
 <p align="center">
   Thanks for stopping by! Feel free to explore my projects and reach out for collaborations! 🚀
 </p
-
-<!--
-**sanab17/sanab17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
