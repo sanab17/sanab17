@@ -25,17 +25,17 @@
 
 **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,express" alt="tech stack" />
 </p>
 
 **Databases & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,git" alt="databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git" alt="databases" />
 </p>
 
 **Cloud & DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,github,netlify,postman" alt="cloud and devops" />
+  <img src="https://skillicons.dev/icons?i=aws,github,netlify,postman" alt="cloud and devops" />
 </p>
 
 ## 💼 Featured Projects
@@ -46,11 +46,61 @@ A production-ready full-stack application that monitors API health and tracks pe
 ✨ **Key Features:**
 
 🔄 Real-time health checks every 15 seconds
+
 📊 Response time tracking and visualization
+
 ⚡ Built with TypeScript for type safety
+
 🚀 Deployed with CI/CD (Frontend: Netlify | Backend: Render)
 
 **Tech:** React • TypeScript • Node.js • Express • Vite
+
+🌐 [**Live Demo**](https://api-monitor-dashboard.netlify.app) | 💻 [**Source Code**](https://github.com/sanab17/api-monitor-dashboard)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanab17&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanab17&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 🤝 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/sanab17" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanab17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+<p align="center">
+  <i>💡 "First, solve the problem. Then, write the code." - John Johnson</i>
+</p>
+
+⚡ Quick Facts
+javascriptconst sana = {
+    role: "Full-Stack Engineer",
+    experience: "8+ years",
+    focus: ["Backend Systems", "REST APIs", "Full-Stack Development"],
+    currentlyLearning: ["Advanced React Patterns", "Cloud Architecture"],
+    askMeAbout: ["Node.js", "TypeScript", "System Design", "API Development"],
+    workingOn: "Building tools that make developers' lives easier",
+    funFact: "My code works. I have no idea why. Don't touch it."
+};
+
+<p align="center">
+  Thanks for stopping by! Feel free to explore my projects and reach out for collaborations! 🚀
+</p
 
 <!--
 **sanab17/sanab17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
