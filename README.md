@@ -56,13 +56,13 @@ A production-ready full-stack application that monitors API health and tracks pe
 
 🌐 [**Live Demo**](https://api-monitor-dashboard.netlify.app) | 💻 [**Source Code**](https://github.com/sanab17/api-monitor-dashboard)
 
-# 📚 LeetCode Practice
+📚 **LeetCode Practice**
 
 Repository documenting solutions to coding problems, focusing on data structures and algorithms.
 
 Focus Areas: Arrays, Linked Lists, Trees, Dynamic Programming, System Design
 
-# 🔐 Secret Message Decode
+🔐 **Secret Message Decode**
 
 Exploring encoding and decoding mechanisms for secure message transmission.
 
