@@ -2,6 +2,10 @@
 
 **Backend-focused Software Engineer with 8+ years of experience building scalable APIs and full-stack applications.**
 
+<div align="center">
+  <img src="https://giphy.com/gifs/PersonaJourney-coding-programming-hanacoding-uVhWw4M2puM4bUJgM1" width="500" alt="coding">
+</div>
+
 🚀 **What I'm Up To**
 
 🔭 Currently building **full-stack monitoring and automation tools**
