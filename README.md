@@ -81,14 +81,15 @@ A production-ready full-stack application that monitors API health and tracks pe
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanab17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/username=sanab17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 <p align="center">
   <i>💡 "First, solve the problem. Then, write the code." - John Johnson</i>
 </p>
 
 ⚡ Quick Facts
-javascriptconst sana = {
+javascript
+const sana = {
     role: "Full-Stack Engineer",
     experience: "8+ years",
     focus: ["Backend Systems", "REST APIs", "Full-Stack Development"],
