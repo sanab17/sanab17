@@ -5,11 +5,6 @@
 <table>
 <tr>
 <td width="50%">
-  <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3llcG41dXM2NnY2cGs2bzNzbGx5cGF2NjMzNjAwMjNhd3RvODQycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif">
-  </div>
-</td>
-<td width="50%">
   ## 🚀 What I'm Up To
 
 🔭 Currently building **full-stack monitoring and automation tools**
@@ -23,6 +18,14 @@
 💬 Ask me about **Node.js, REST APIs, TypeScript, System Design, or debugging production issues**
 
 📫 Reach me at **sana.b17@yahoo.com**
+</td>
+<td width="50%">
+  
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3llcG41dXM2NnY2cGs2bzNzbGx5cGF2NjMzNjAwMjNhd3RvODQycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif">
+  </div>
+
 </td>
 </tr>
 </table>
