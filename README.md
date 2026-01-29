@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Sana Bulbule
 
-**Backend-focused Software Engineer with 8+ years of experience building scalable APIs and full-stack applications.**
+**Full-Stack Engineer who turns coffee into scalable APIs and clean code. I've spent 8+ years building backend systems that don't break at 3 AM.**
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3llcG41dXM2NnY2cGs2bzNzbGx5cGF2NjMzNjAwMjNhd3RvODQycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif">
