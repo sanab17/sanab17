@@ -79,12 +79,6 @@ Exploring encoding and decoding mechanisms for secure message transmission.
   <a href="https://linkedin.com/in/sanabulbule" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/sanab17" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="mailto:sana.b17@yahoo.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
-  </a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanab17&color=blueviolet&style=flat-square)
