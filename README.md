@@ -24,12 +24,12 @@
 
 **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,express,java" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,express,java,php" alt="tech stack" />
 </p>
 
 **Databases & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,mongodb,git" alt="databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git" alt="databases" />
 </p>
 
 **Cloud & DevOps**
