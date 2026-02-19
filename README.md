@@ -16,7 +16,7 @@
 
 👯 Open to collaborating on **open-source backend projects**
 
-💬 Ask me about **Node.js, REST APIs, TypeScript, System Design, or debugging production issues**
+💬 Ask me about **Node.js, REST APIs, Java, TypeScript, System Design, or debugging production issues**
 
 📫 Reach me at **sana.b17@yahoo.com**
 
@@ -89,7 +89,7 @@ const sana = {
     experience: "8+ years",
     focus: ["Backend Systems", "REST APIs", "Full-Stack Development"],
     currentlyLearning: ["Advanced React Patterns", "Cloud Architecture"],
-    askMeAbout: ["Node.js", "TypeScript", "System Design", "API Development"],
+    askMeAbout: ["Node.js", "Java", "TypeScript", "System Design", "API Development"],
     workingOn: "Building tools that make developers' lives easier",
     funFact: "My code works. I have no idea why. Don't touch it."
 };
